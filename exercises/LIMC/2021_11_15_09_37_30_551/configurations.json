@@ -2,7 +2,7 @@
 	{
 		"exercise": "2021-11-15 09:37:30.551",
 		"scenario": "LIMC",
-		"asprid": false,
+		"asprid": true,
 		"criticalAssets": [
 			{
 				"shape": {
