@@ -1,0 +1,10 @@
+position,entityId,entityName,droneId,droneName,eventType,description,riskType,distance,timestamp,visible,onlyRadar
+{"lat":"45.63590737002459","lng":"8.706536788189533"},"CRITICAL_ASSET_1652283081689","FINGER_1","uNyOmn88PfbqGQsI4pk6","Drone_02","DRONE_VS_CA","drone vs critical asset","YELLOW",836.39,1549640716000,false,false
+{"lat":"45.63584030111707","lng":"8.706830186788833"},"CRITICAL_ASSET_1652283081689","FINGER_1","uNyOmn88PfbqGQsI4pk6","Drone_02","DRONE_VS_CA","drone vs critical asset","YELLOW",814.45,1549640722000,true,false
+{"lat":"45.63582912296582","lng":"8.706879086555384"},"CRITICAL_ASSET_1652283081689","FINGER_1","uNyOmn88PfbqGQsI4pk6","Drone_02","DRONE_VS_CA","drone vs critical asset","YELLOW",810.8,1549640723000,false,false
+{"lat":"45.63581794481457","lng":"8.706927986321935"},"CRITICAL_ASSET_1652283081689","FINGER_1","uNyOmn88PfbqGQsI4pk6","Drone_02","DRONE_VS_CA","drone vs critical asset","YELLOW",807.16,1549640724000,true,false
+{"lat":"45.63572851960455","lng":"8.707319184454336"},"CRITICAL_ASSET_1652282978809","RWY_35_L","uNyOmn88PfbqGQsI4pk6","Drone_02","DRONE_VS_CA","drone vs critical asset","YELLOW",1513.09,1549640732000,true,false
+{"lat":"45.635717341453294","lng":"8.707368084220887"},"CRITICAL_ASSET_1652282978809","RWY_35_L","uNyOmn88PfbqGQsI4pk6","Drone_02","DRONE_VS_CA","drone vs critical asset","YELLOW",1509.23,1549640733000,false,false
+{"lat":"45.635717341453294","lng":"8.707368084220887"},"CRITICAL_ASSET_1652283081689","FINGER_1","uNyOmn88PfbqGQsI4pk6","Drone_02","DRONE_VS_CA","drone vs critical asset","YELLOW",774.53,1549640733000,false,false
+{"lat":"45.63569498515079","lng":"8.707465883753986"},"CRITICAL_ASSET_1652282978809","RWY_35_L","uNyOmn88PfbqGQsI4pk6","Drone_02","DRONE_VS_CA","drone vs critical asset","YELLOW",1501.54,1549640735000,true,false
+{"lat":"45.63569498515079","lng":"8.707465883753986"},"CRITICAL_ASSET_1652283081689","FINGER_1","uNyOmn88PfbqGQsI4pk6","Drone_02","DRONE_VS_CA","drone vs critical asset","YELLOW",767.32,1549640735000,true,false

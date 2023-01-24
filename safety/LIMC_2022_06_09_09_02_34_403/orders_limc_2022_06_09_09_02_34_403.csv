@@ -1,0 +1,3 @@
+id,drone,counterMeasure,timestamp,success,outOfRange,probability,status,adminTimestamp
+"zJeyIddluVfB2Qz90yGG_COUNTER_MEASURE_1652864671210","zJeyIddluVfB2Qz90yGG","COUNTER_MEASURE_1652864671210",1549641783000,false,false,false,"fired",1654760702637
+"zJeyIddluVfB2Qz90yGG_COUNTER_MEASURE_1652864671210","zJeyIddluVfB2Qz90yGG","COUNTER_MEASURE_1652864671210",1549641813000,true,false,false,"success",1654760732445
