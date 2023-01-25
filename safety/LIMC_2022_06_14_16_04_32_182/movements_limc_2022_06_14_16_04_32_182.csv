@@ -1,7 +1,0 @@
-position,scenario,exercise,trafficType,objectId,timestamp,visible,authorized,moving,speed,status,phase,name,creator,heading,droneType,onlyRadar
-{"lat":"45.608698390152185","lng":"8.684331940902101"},"LIMC","2022-06-14 16:04:32.182","drone","pNiogOJTZYeeCHif2ebH",1549641061000,false,false,true,10,"ok","none","Drone_03"," - Flutter App",0,"qJfB2EiRwZzorBCifwNH","true"
-{"lat":"45.62448754877359","lng":"8.691198395980226"},"LIMC","2022-06-14 16:04:32.182","drone","HAZVUWkJYPGVtKbuybrG",1549641061000,false,false,false,3,"ok","none","Drone_02"," - Flutter App",0,"iGbdly63CmE9yNzl8Xus","true"
-{"lat":"45.6400285966966","lng":"8.676809179565437"},"LIMC","2022-06-14 16:04:32.182","drone","2Ja8DTcCHfx497msvtOQ",1549641061000,false,false,false,3,"ok","none","Drone_01"," - Flutter App",0,"AOe1Xx3NxyiGci0wcwNf","true"
-{"lat":"45.608698390152185","lng":"8.684331940902101"},"LIMC","2022-06-14 16:04:32.182","drone","pNiogOJTZYeeCHif2ebH",1549641060000,false,false,false,3,"ok","none","Drone_03"," - Flutter App",0,"qJfB2EiRwZzorBCifwNH","true"
-{"lat":"45.62448754877359","lng":"8.691198395980226"},"LIMC","2022-06-14 16:04:32.182","drone","HAZVUWkJYPGVtKbuybrG",1549641060000,false,false,false,3,"ok","none","Drone_02"," - Flutter App",0,"iGbdly63CmE9yNzl8Xus","true"
-{"lat":"45.6400285966966","lng":"8.676809179565437"},"LIMC","2022-06-14 16:04:32.182","drone","2Ja8DTcCHfx497msvtOQ",1549641060000,false,false,false,3,"ok","none","Drone_01"," - Flutter App",0,"AOe1Xx3NxyiGci0wcwNf","true"

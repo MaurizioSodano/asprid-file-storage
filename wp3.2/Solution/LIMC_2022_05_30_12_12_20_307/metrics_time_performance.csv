@@ -1,0 +1,2 @@
+name,description,Flights Released for Departures,Takeoffs,Delayed Departing Flights,Delayed Departing Flights [%],Mean Delay of Departing Flights [s],Worst Delay of Departing Flights [s],Landed Flights,Delayed Arriving Flights,Delayed Arriving Flights [%],Mean Delay of Arriving Flights [s],Worst Delay of Arriving Flights [s],Time Performance Degradation
+LIMC_2022_05_30_12_12_20_307,Threat on 35L - Drone 03,17,10,8,47.05882352941176,382.440125,650.005,0,0,0,0,0,0

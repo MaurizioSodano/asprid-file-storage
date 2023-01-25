@@ -1,0 +1,21 @@
+Aircraft takeoff delays [id, delay]:
+ADH124, 739.219
+ADH138, 555.204
+ADH646, 53.105
+AEA406, 271.733
+AUA516P, 530.567
+EZY152X, 230.093
+EZY363E, 390.998
+NOS436, 376.128
+Delayed departing aircraft [id, delay]:
+ADH124, 739.219
+ADH138, 555.204
+ADH646, 53.105
+AEA406, 271.733
+AUA516P, 530.567
+EZY152X, 230.093
+EZY363E, 390.998
+NOS436, 376.128
+Aircraft touchdown delays [id, delay]:
+
+Delayed arriving aircraft [id, delay]:

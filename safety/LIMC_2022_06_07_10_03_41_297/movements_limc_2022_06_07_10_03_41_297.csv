@@ -1,6 +1,0 @@
-position,scenario,exercise,trafficType,objectId,timestamp,visible,authorized,moving,speed,status,phase,name,creator,heading,droneType,onlyRadar
-{"lat":"45.623760761898936","lng":"8.691127246713068"},"LIMC","2022-06-07 10:03:41.297","drone","MN88xOsyU12l3KZlqmtq",1549641060000,false,false,false,3,"ok","none","Drone_02","Maurizio - Flutter App",0,"AOe1Xx3NxyiGci0wcwNf","true"
-{"lat":"45.65124645550718","lng":"8.674991077279474"},"LIMC","2022-06-07 10:03:41.297","drone","LTSePYJw4QqGh66id9x9",1549641060000,false,false,false,3,"ok","none","Drone_01","Maurizio - Flutter App",0,"1FP8D5Gx2nCkwsXKiTPb","true"
-{"lat":"45.63080794750029","lng":"8.759877628182794"},"LIMC","2022-06-07 10:03:41.297","drone","9aSCNJuUctWTaurcwjbG",1549641060000,false,false,false,3,"ok","none","Drone_03","Maurizio - Flutter App",0,"qJfB2EiRwZzorBCifwNH","true"
-{"lat":"45.635791814381236","lng":"8.713050869215206"},"LIMC","2022-06-07 10:03:41.297","drone","uVqOT9GIxC3d88aaXWkG",1549641060000,false,true,false,3,"ok","none","Drone_05","Maurizio - Flutter App",0,"zEctzVjoRiZ7T5aBTe6J","true"
-{"lat":"45.65911022811112","lng":"8.766234253261342"},"LIMC","2022-06-07 10:03:41.297","drone","ygfz245ztZsd1uBo7Wla",1549641060000,false,false,false,3,"ok","none","Drone_04","Maurizio - Flutter App",0,"zEctzVjoRiZ7T5aBTe6J","true"

@@ -1,0 +1,22 @@
+Yellow [duration, type, drone, asset, alert]:
+360.0, DRONE_VS_CA, Drone_04, APP_35_L, no_critical_speed_alert
+-2.0, DRONE_VS_CA, Drone_04, DEP_35_L, no_critical_speed_alert
+-5.0, DRONE_VS_CA, Drone_04, DEP_35_L, no_critical_speed_alert
+467.6, DRONE_VS_CA, Drone_04, DEP_35_L, no_critical_speed_alert
+0.0, DRONE_VS_PLANE, Drone_04, DLH1LC, no_critical_speed_alert
+146.0, DRONE_VS_PLANE, Drone_04, DLH1LC, no_critical_speed_alert
+387.0, DRONE_VS_CA, Drone_04, FINGER_1, no_critical_speed_alert
+380.0, DRONE_VS_CA, Drone_04, FINGER_2, no_critical_speed_alert
+292.0, DRONE_VS_CA, Drone_04, FINGER_3, no_critical_speed_alert
+416.0, DRONE_VS_CA, Drone_04, FIRE_STATION, no_critical_speed_alert
+189.0, DRONE_VS_PLANE, Drone_04, NAPOLI, no_critical_speed_alert
+309.0, DRONE_VS_CA, Drone_04, RWY_35_L, no_critical_speed_alert
+342.1, DRONE_VS_CA, Drone_04, RWY_35_L, no_critical_speed_alert
+98.0, DRONE_VS_CA, Drone_04, TOWER, no_critical_speed_alert
+205.0, DRONE_VS_CA, Drone_04, TOWER, no_critical_speed_alert
+195.0, DRONE_VS_PLANE, Drone_04, WZZ2TY, no_critical_speed_alert
+Orange [duration, type, drone, asset, alert]:
+
+Red [duration, type, drone, asset, alert]:
+469.0, DRONE_OUT_CA, Drone_04, RWY_35_L, no_critical_speed_alert
+29.0, DRONE_OUT_CA, Drone_04, TOWER, no_critical_speed_alert

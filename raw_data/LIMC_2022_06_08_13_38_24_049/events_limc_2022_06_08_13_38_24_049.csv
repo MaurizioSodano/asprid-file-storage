@@ -1,0 +1,240 @@
+position,entityId,entityName,droneId,droneName,eventType,description,riskType,distance,timestamp,visible,onlyRadar
+{"lat":"45.623796616047905","lng":"8.71652733065797"},"NAPOLI","NAPOLI","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","YELLOW",212.51,1549641298000,true,false
+{"lat":"45.623796616047905","lng":"8.71652733065797"},"ADH124","ADH124","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","YELLOW",271.7,1549641298000,true,false
+{"lat":"45.623796616047905","lng":"8.71652733065797"},"AUA516P","AUA516P","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","YELLOW",509.46,1549641298000,true,false
+{"lat":"45.623796616047905","lng":"8.71652733065797"},"ADH138","ADH138","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","YELLOW",332.03,1549641298000,true,false
+{"lat":"45.62378387270873","lng":"8.716561333281044"},"AEA406","AEA406","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","YELLOW",103.25,1549641299000,true,false
+{"lat":"45.623796616047905","lng":"8.71652733065797"},"NOS436","NOS436","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","YELLOW",476.09,1549641298000,true,false
+{"lat":"45.62378387270873","lng":"8.716561333281044"},"CRITICAL_ASSET_1652282809098","TOWER","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_CA","drone vs critical asset","YELLOW",402.43,1549641299000,true,false
+{"lat":"45.623796616047905","lng":"8.71652733065797"},"CRITICAL_ASSET_1652282978809","RWY_35_L","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_CA","drone vs critical asset","ORANGE",727.47,1549641298000,true,false
+{"lat":"45.62378387270873","lng":"8.716561333281044"},"CRITICAL_ASSET_1652283081689","FINGER_1","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_CA","drone vs critical asset","YELLOW",807.06,1549641299000,true,false
+{"lat":"45.623796616047905","lng":"8.71652733065797"},"CRITICAL_ASSET_1652283104248","FINGER_2","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_CA","drone vs critical asset","ORANGE",451.95,1549641298000,true,false
+{"lat":"45.62378387270873","lng":"8.716561333281044"},"CRITICAL_ASSET_1652283134068","FINGER_3","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_CA","drone vs critical asset","RED",91.98,1549641299000,true,false
+{"lat":"45.623796616047905","lng":"8.71652733065797"},"CRITICAL_ASSET_1652340976057","FIRE_STATION","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_CA","drone vs critical asset","ORANGE",473.08,1549641298000,true,false
+{"lat":"45.623758386030374","lng":"8.716629338527191"},"AEA406","AEA406","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","ORANGE",99.77,1549641301000,true,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"NAPOLI","NAPOLI","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","YELLOW",207.94,1549641330000,false,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"ADH124","ADH124","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","YELLOW",252.38,1549641330000,false,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"AUA516P","AUA516P","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","YELLOW",481.21,1549641330000,false,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"ADH138","ADH138","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","YELLOW",325.55,1549641330000,false,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"AEA406","AEA406","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","ORANGE",89.72,1549641330000,false,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"NAPOLI","NAPOLI","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","YELLOW",207.94,1549641331000,true,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"NOS436","NOS436","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","YELLOW",479.44,1549641330000,false,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"ADH124","ADH124","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","YELLOW",252.38,1549641331000,true,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"AUA516P","AUA516P","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","YELLOW",481.21,1549641331000,true,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"CRITICAL_ASSET_1652282809098","TOWER","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_CA","drone vs critical asset","YELLOW",398.2,1549641330000,false,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"ADH138","ADH138","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","YELLOW",325.55,1549641331000,true,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"CRITICAL_ASSET_1652282978809","RWY_35_L","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_CA","drone vs critical asset","ORANGE",717.79,1549641330000,false,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"AEA406","AEA406","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","ORANGE",89.72,1549641331000,true,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"CRITICAL_ASSET_1652283081689","FINGER_1","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_CA","drone vs critical asset","YELLOW",824.4,1549641330000,false,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"NOS436","NOS436","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","YELLOW",479.44,1549641332000,true,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"CRITICAL_ASSET_1652282809098","TOWER","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_CA","drone vs critical asset","YELLOW",398.2,1549641331000,true,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"CRITICAL_ASSET_1652283104248","FINGER_2","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_CA","drone vs critical asset","ORANGE",471.7,1549641330000,false,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"CRITICAL_ASSET_1652282978809","RWY_35_L","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_CA","drone vs critical asset","ORANGE",717.79,1549641332000,true,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"CRITICAL_ASSET_1652283104248","FINGER_2","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_CA","drone vs critical asset","ORANGE",471.7,1549641332000,true,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"CRITICAL_ASSET_1652283081689","FINGER_1","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_CA","drone vs critical asset","YELLOW",824.4,1549641331000,true,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"CRITICAL_ASSET_1652283134068","FINGER_3","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_CA","drone vs critical asset","RED",111.88,1549641330000,false,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"CRITICAL_ASSET_1652340976057","FIRE_STATION","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_CA","drone vs critical asset","ORANGE",456.44,1549641330000,false,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"CRITICAL_ASSET_1652283134068","FINGER_3","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_CA","drone vs critical asset","RED",111.88,1549641332000,true,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"CRITICAL_ASSET_1652340976057","FIRE_STATION","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_CA","drone vs critical asset","ORANGE",456.44,1549641332000,true,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"NAPOLI","NAPOLI","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","YELLOW",207.94,1549641431000,false,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"ADH124","ADH124","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","YELLOW",252.38,1549641431000,false,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"AUA516P","AUA516P","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","YELLOW",481.21,1549641431000,false,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"ADH138","ADH138","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","YELLOW",325.55,1549641431000,false,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"AEA406","AEA406","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","ORANGE",89.72,1549641431000,false,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"NOS436","NOS436","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","YELLOW",479.44,1549641431000,false,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"NAPOLI","NAPOLI","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","YELLOW",207.94,1549641432000,true,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"CRITICAL_ASSET_1652282809098","TOWER","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_CA","drone vs critical asset","YELLOW",398.2,1549641431000,false,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"ADH124","ADH124","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","YELLOW",252.38,1549641432000,true,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"CRITICAL_ASSET_1652282978809","RWY_35_L","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_CA","drone vs critical asset","ORANGE",717.79,1549641431000,false,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"AUA516P","AUA516P","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","YELLOW",481.21,1549641432000,true,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"CRITICAL_ASSET_1652283081689","FINGER_1","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_CA","drone vs critical asset","YELLOW",824.4,1549641431000,false,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"ADH138","ADH138","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","YELLOW",325.55,1549641432000,true,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"CRITICAL_ASSET_1652283104248","FINGER_2","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_CA","drone vs critical asset","ORANGE",471.7,1549641431000,false,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"AEA406","AEA406","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","ORANGE",89.72,1549641432000,true,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"CRITICAL_ASSET_1652283134068","FINGER_3","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_CA","drone vs critical asset","RED",111.88,1549641431000,false,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"NOS436","NOS436","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","YELLOW",479.44,1549641432000,true,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"CRITICAL_ASSET_1652340976057","FIRE_STATION","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_CA","drone vs critical asset","ORANGE",456.44,1549641431000,false,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"CRITICAL_ASSET_1652282809098","TOWER","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_CA","drone vs critical asset","YELLOW",398.2,1549641432000,true,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"CRITICAL_ASSET_1652282978809","RWY_35_L","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_CA","drone vs critical asset","ORANGE",717.79,1549641433000,true,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"CRITICAL_ASSET_1652283081689","FINGER_1","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_CA","drone vs critical asset","YELLOW",824.4,1549641432000,true,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"CRITICAL_ASSET_1652283104248","FINGER_2","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_CA","drone vs critical asset","ORANGE",471.7,1549641433000,true,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"CRITICAL_ASSET_1652283134068","FINGER_3","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_CA","drone vs critical asset","RED",111.88,1549641432000,true,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"CRITICAL_ASSET_1652340976057","FIRE_STATION","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_CA","drone vs critical asset","ORANGE",456.44,1549641433000,true,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"NAPOLI","NAPOLI","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","YELLOW",207.94,1549641438000,false,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"ADH124","ADH124","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","YELLOW",252.38,1549641438000,false,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"AUA516P","AUA516P","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","YELLOW",481.21,1549641438000,false,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"ADH138","ADH138","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","YELLOW",325.55,1549641438000,false,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"AEA406","AEA406","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","ORANGE",89.72,1549641438000,false,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"NOS436","NOS436","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","YELLOW",479.44,1549641438000,false,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"CRITICAL_ASSET_1652282809098","TOWER","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_CA","drone vs critical asset","YELLOW",398.2,1549641438000,false,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"NAPOLI","NAPOLI","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","YELLOW",207.94,1549641439000,true,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"CRITICAL_ASSET_1652282978809","RWY_35_L","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_CA","drone vs critical asset","ORANGE",717.79,1549641438000,false,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"ADH124","ADH124","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","YELLOW",252.38,1549641439000,true,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"CRITICAL_ASSET_1652283081689","FINGER_1","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_CA","drone vs critical asset","YELLOW",824.4,1549641438000,false,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"AUA516P","AUA516P","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","YELLOW",481.21,1549641439000,true,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"CRITICAL_ASSET_1652283104248","FINGER_2","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_CA","drone vs critical asset","ORANGE",471.7,1549641438000,false,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"ADH138","ADH138","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","YELLOW",325.55,1549641439000,true,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"CRITICAL_ASSET_1652283134068","FINGER_3","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_CA","drone vs critical asset","RED",111.88,1549641438000,false,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"AEA406","AEA406","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","ORANGE",89.72,1549641439000,true,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"CRITICAL_ASSET_1652340976057","FIRE_STATION","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_CA","drone vs critical asset","ORANGE",456.44,1549641438000,false,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"NOS436","NOS436","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","YELLOW",479.44,1549641439000,true,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"CRITICAL_ASSET_1652282809098","TOWER","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_CA","drone vs critical asset","YELLOW",398.2,1549641440000,true,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"CRITICAL_ASSET_1652282978809","RWY_35_L","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_CA","drone vs critical asset","ORANGE",717.79,1549641439000,true,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"CRITICAL_ASSET_1652283081689","FINGER_1","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_CA","drone vs critical asset","YELLOW",824.4,1549641440000,true,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"CRITICAL_ASSET_1652283104248","FINGER_2","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_CA","drone vs critical asset","ORANGE",471.7,1549641439000,true,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"CRITICAL_ASSET_1652283134068","FINGER_3","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_CA","drone vs critical asset","RED",111.88,1549641440000,true,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"CRITICAL_ASSET_1652340976057","FIRE_STATION","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_CA","drone vs critical asset","ORANGE",456.44,1549641439000,true,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"NAPOLI","NAPOLI","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","YELLOW",207.94,1549641446000,false,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"ADH124","ADH124","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","YELLOW",252.38,1549641446000,false,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"AUA516P","AUA516P","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","YELLOW",481.21,1549641446000,false,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"ADH138","ADH138","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","YELLOW",325.55,1549641446000,false,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"AEA406","AEA406","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","ORANGE",89.72,1549641446000,false,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"NOS436","NOS436","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","YELLOW",479.44,1549641446000,false,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"NAPOLI","NAPOLI","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","YELLOW",207.94,1549641447000,true,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"CRITICAL_ASSET_1652282809098","TOWER","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_CA","drone vs critical asset","YELLOW",398.2,1549641446000,false,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"ADH124","ADH124","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","YELLOW",252.38,1549641447000,true,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"CRITICAL_ASSET_1652282978809","RWY_35_L","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_CA","drone vs critical asset","ORANGE",717.79,1549641446000,false,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"AUA516P","AUA516P","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","YELLOW",481.21,1549641447000,true,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"CRITICAL_ASSET_1652283081689","FINGER_1","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_CA","drone vs critical asset","YELLOW",824.4,1549641446000,false,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"ADH138","ADH138","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","YELLOW",325.55,1549641447000,true,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"CRITICAL_ASSET_1652283104248","FINGER_2","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_CA","drone vs critical asset","ORANGE",471.7,1549641446000,false,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"AEA406","AEA406","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","ORANGE",89.72,1549641447000,true,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"NOS436","NOS436","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","YELLOW",479.44,1549641447000,true,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"CRITICAL_ASSET_1652283134068","FINGER_3","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_CA","drone vs critical asset","RED",111.88,1549641446000,false,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"CRITICAL_ASSET_1652282809098","TOWER","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_CA","drone vs critical asset","YELLOW",398.2,1549641447000,true,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"CRITICAL_ASSET_1652340976057","FIRE_STATION","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_CA","drone vs critical asset","ORANGE",456.44,1549641446000,false,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"CRITICAL_ASSET_1652282978809","RWY_35_L","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_CA","drone vs critical asset","ORANGE",717.79,1549641448000,true,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"CRITICAL_ASSET_1652283081689","FINGER_1","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_CA","drone vs critical asset","YELLOW",824.4,1549641447000,true,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"CRITICAL_ASSET_1652283104248","FINGER_2","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_CA","drone vs critical asset","ORANGE",471.7,1549641448000,true,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"CRITICAL_ASSET_1652340976057","FIRE_STATION","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_CA","drone vs critical asset","ORANGE",456.44,1549641448000,true,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"CRITICAL_ASSET_1652283134068","FINGER_3","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_CA","drone vs critical asset","RED",111.88,1549641447000,true,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"NAPOLI","NAPOLI","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","YELLOW",207.94,1549641507000,false,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"ADH124","ADH124","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","YELLOW",252.38,1549641507000,false,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"AUA516P","AUA516P","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","YELLOW",481.21,1549641507000,false,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"ADH138","ADH138","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","YELLOW",325.55,1549641507000,false,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"AEA406","AEA406","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","ORANGE",89.72,1549641507000,false,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"NAPOLI","NAPOLI","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","YELLOW",207.94,1549641508000,true,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"NOS436","NOS436","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","YELLOW",479.44,1549641507000,false,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"ADH124","ADH124","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","YELLOW",252.38,1549641508000,true,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"CRITICAL_ASSET_1652282809098","TOWER","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_CA","drone vs critical asset","YELLOW",398.2,1549641507000,false,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"AUA516P","AUA516P","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","YELLOW",481.21,1549641508000,true,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"CRITICAL_ASSET_1652282978809","RWY_35_L","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_CA","drone vs critical asset","ORANGE",717.79,1549641507000,false,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"CRITICAL_ASSET_1652283081689","FINGER_1","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_CA","drone vs critical asset","YELLOW",824.4,1549641507000,false,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"ADH138","ADH138","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","YELLOW",325.55,1549641508000,true,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"AEA406","AEA406","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","ORANGE",89.72,1549641509000,true,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"CRITICAL_ASSET_1652283104248","FINGER_2","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_CA","drone vs critical asset","ORANGE",471.7,1549641507000,false,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"NOS436","NOS436","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","YELLOW",479.44,1549641508000,true,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"CRITICAL_ASSET_1652282809098","TOWER","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_CA","drone vs critical asset","YELLOW",398.2,1549641509000,true,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"CRITICAL_ASSET_1652283134068","FINGER_3","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_CA","drone vs critical asset","RED",111.88,1549641507000,false,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"CRITICAL_ASSET_1652282978809","RWY_35_L","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_CA","drone vs critical asset","ORANGE",717.79,1549641508000,true,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"CRITICAL_ASSET_1652283081689","FINGER_1","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_CA","drone vs critical asset","YELLOW",824.4,1549641509000,true,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"CRITICAL_ASSET_1652340976057","FIRE_STATION","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_CA","drone vs critical asset","ORANGE",456.44,1549641507000,false,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"CRITICAL_ASSET_1652283104248","FINGER_2","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_CA","drone vs critical asset","ORANGE",471.7,1549641508000,true,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"CRITICAL_ASSET_1652283134068","FINGER_3","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_CA","drone vs critical asset","RED",111.88,1549641509000,true,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"CRITICAL_ASSET_1652340976057","FIRE_STATION","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_CA","drone vs critical asset","ORANGE",456.44,1549641508000,true,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"NAPOLI","NAPOLI","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","YELLOW",207.94,1549641549000,false,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"ADH124","ADH124","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","YELLOW",252.38,1549641549000,false,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"AUA516P","AUA516P","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","YELLOW",481.21,1549641549000,false,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"ADH138","ADH138","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","YELLOW",325.55,1549641549000,false,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"AEA406","AEA406","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","ORANGE",89.72,1549641549000,false,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"NOS436","NOS436","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","YELLOW",479.44,1549641549000,false,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"NAPOLI","NAPOLI","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","YELLOW",207.94,1549641550000,true,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"CRITICAL_ASSET_1652282809098","TOWER","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_CA","drone vs critical asset","YELLOW",398.2,1549641549000,false,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"ADH124","ADH124","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","YELLOW",252.38,1549641550000,true,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"CRITICAL_ASSET_1652282978809","RWY_35_L","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_CA","drone vs critical asset","ORANGE",717.79,1549641549000,false,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"AUA516P","AUA516P","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","YELLOW",481.21,1549641550000,true,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"CRITICAL_ASSET_1652283081689","FINGER_1","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_CA","drone vs critical asset","YELLOW",824.4,1549641549000,false,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"ADH138","ADH138","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","YELLOW",325.55,1549641550000,true,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"CRITICAL_ASSET_1652283104248","FINGER_2","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_CA","drone vs critical asset","ORANGE",471.7,1549641549000,false,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"AEA406","AEA406","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","ORANGE",89.72,1549641550000,true,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"CRITICAL_ASSET_1652283134068","FINGER_3","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_CA","drone vs critical asset","RED",111.88,1549641549000,false,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"NOS436","NOS436","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","YELLOW",479.44,1549641550000,true,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"CRITICAL_ASSET_1652340976057","FIRE_STATION","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_CA","drone vs critical asset","ORANGE",456.44,1549641549000,false,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"CRITICAL_ASSET_1652282809098","TOWER","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_CA","drone vs critical asset","YELLOW",398.2,1549641550000,true,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"CRITICAL_ASSET_1652282978809","RWY_35_L","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_CA","drone vs critical asset","ORANGE",717.79,1549641551000,true,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"CRITICAL_ASSET_1652283081689","FINGER_1","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_CA","drone vs critical asset","YELLOW",824.4,1549641550000,true,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"CRITICAL_ASSET_1652283104248","FINGER_2","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_CA","drone vs critical asset","ORANGE",471.7,1549641551000,true,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"CRITICAL_ASSET_1652283134068","FINGER_3","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_CA","drone vs critical asset","RED",111.88,1549641550000,true,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"CRITICAL_ASSET_1652340976057","FIRE_STATION","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_CA","drone vs critical asset","ORANGE",456.44,1549641551000,true,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"NAPOLI","NAPOLI","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","YELLOW",207.94,1549641569000,false,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"ADH124","ADH124","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","YELLOW",252.38,1549641569000,false,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"AUA516P","AUA516P","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","YELLOW",481.21,1549641569000,false,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"ADH138","ADH138","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","YELLOW",325.55,1549641569000,false,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"AEA406","AEA406","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","ORANGE",89.72,1549641569000,false,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"NOS436","NOS436","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","YELLOW",479.44,1549641569000,false,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"CRITICAL_ASSET_1652282809098","TOWER","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_CA","drone vs critical asset","YELLOW",398.2,1549641569000,false,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"CRITICAL_ASSET_1652282978809","RWY_35_L","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_CA","drone vs critical asset","ORANGE",717.79,1549641569000,false,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"NAPOLI","NAPOLI","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","YELLOW",207.94,1549641570000,true,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"ADH124","ADH124","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","YELLOW",252.38,1549641570000,true,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"CRITICAL_ASSET_1652283081689","FINGER_1","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_CA","drone vs critical asset","YELLOW",824.4,1549641569000,false,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"AUA516P","AUA516P","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","YELLOW",481.21,1549641570000,true,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"CRITICAL_ASSET_1652283104248","FINGER_2","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_CA","drone vs critical asset","ORANGE",471.7,1549641569000,false,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"CRITICAL_ASSET_1652283134068","FINGER_3","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_CA","drone vs critical asset","RED",111.88,1549641569000,false,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"ADH138","ADH138","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","YELLOW",325.55,1549641570000,true,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"CRITICAL_ASSET_1652340976057","FIRE_STATION","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_CA","drone vs critical asset","ORANGE",456.44,1549641569000,false,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"AEA406","AEA406","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","ORANGE",89.72,1549641570000,true,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"NOS436","NOS436","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","YELLOW",479.44,1549641570000,true,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"CRITICAL_ASSET_1652282809098","TOWER","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_CA","drone vs critical asset","YELLOW",398.2,1549641571000,true,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"CRITICAL_ASSET_1652282978809","RWY_35_L","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_CA","drone vs critical asset","ORANGE",717.79,1549641570000,true,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"CRITICAL_ASSET_1652283081689","FINGER_1","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_CA","drone vs critical asset","YELLOW",824.4,1549641571000,true,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"CRITICAL_ASSET_1652283104248","FINGER_2","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_CA","drone vs critical asset","ORANGE",471.7,1549641570000,true,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"CRITICAL_ASSET_1652283134068","FINGER_3","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_CA","drone vs critical asset","RED",111.88,1549641571000,true,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"CRITICAL_ASSET_1652340976057","FIRE_STATION","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_CA","drone vs critical asset","ORANGE",456.44,1549641570000,true,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"ADH646","ADH646","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","YELLOW",245.7,1549641602000,true,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"TAR757","TAR757","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","YELLOW",553.53,1549641602000,true,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"NAPOLI","NAPOLI","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","YELLOW",207.94,1549641623000,false,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"ADH124","ADH124","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","YELLOW",252.38,1549641623000,false,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"AUA516P","AUA516P","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","YELLOW",481.21,1549641623000,false,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"ADH138","ADH138","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","YELLOW",325.55,1549641623000,false,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"AEA406","AEA406","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","ORANGE",89.72,1549641623000,false,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"NOS436","NOS436","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","YELLOW",479.44,1549641623000,false,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"NAPOLI","NAPOLI","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","YELLOW",207.94,1549641624000,true,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"ADH646","ADH646","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","YELLOW",245.7,1549641623000,false,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"ADH124","ADH124","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","YELLOW",252.38,1549641624000,true,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"TAR757","TAR757","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","YELLOW",553.53,1549641623000,false,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"AUA516P","AUA516P","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","YELLOW",481.21,1549641624000,true,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"CRITICAL_ASSET_1652282809098","TOWER","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_CA","drone vs critical asset","YELLOW",398.2,1549641623000,false,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"ADH138","ADH138","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","YELLOW",325.55,1549641624000,true,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"CRITICAL_ASSET_1652282978809","RWY_35_L","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_CA","drone vs critical asset","ORANGE",717.79,1549641623000,false,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"AEA406","AEA406","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","ORANGE",89.72,1549641624000,true,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"CRITICAL_ASSET_1652283081689","FINGER_1","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_CA","drone vs critical asset","YELLOW",824.4,1549641623000,false,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"NOS436","NOS436","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","YELLOW",479.44,1549641624000,true,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"CRITICAL_ASSET_1652283104248","FINGER_2","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_CA","drone vs critical asset","ORANGE",471.7,1549641623000,false,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"ADH646","ADH646","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","YELLOW",245.7,1549641624000,true,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"CRITICAL_ASSET_1652283134068","FINGER_3","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_CA","drone vs critical asset","RED",111.88,1549641623000,false,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"TAR757","TAR757","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","YELLOW",553.53,1549641625000,true,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"CRITICAL_ASSET_1652282809098","TOWER","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_CA","drone vs critical asset","YELLOW",398.2,1549641624000,true,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"CRITICAL_ASSET_1652340976057","FIRE_STATION","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_CA","drone vs critical asset","ORANGE",456.44,1549641623000,false,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"CRITICAL_ASSET_1652282978809","RWY_35_L","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_CA","drone vs critical asset","ORANGE",717.79,1549641625000,true,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"CRITICAL_ASSET_1652283081689","FINGER_1","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_CA","drone vs critical asset","YELLOW",824.4,1549641624000,true,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"CRITICAL_ASSET_1652283104248","FINGER_2","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_CA","drone vs critical asset","ORANGE",471.7,1549641625000,true,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"CRITICAL_ASSET_1652283134068","FINGER_3","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_CA","drone vs critical asset","RED",111.88,1549641624000,true,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"CRITICAL_ASSET_1652340976057","FIRE_STATION","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_CA","drone vs critical asset","ORANGE",456.44,1549641625000,true,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"NAPOLI","NAPOLI","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","YELLOW",207.94,1549641644000,false,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"ADH124","ADH124","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","YELLOW",252.38,1549641644000,false,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"AUA516P","AUA516P","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","YELLOW",481.21,1549641644000,false,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"ADH138","ADH138","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","YELLOW",325.55,1549641644000,false,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"AEA406","AEA406","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","ORANGE",89.72,1549641644000,false,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"NOS436","NOS436","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","YELLOW",479.44,1549641644000,false,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"ADH646","ADH646","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","YELLOW",245.7,1549641644000,false,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"TAR757","TAR757","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","YELLOW",553.53,1549641644000,false,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"NAPOLI","NAPOLI","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","YELLOW",207.94,1549641645000,true,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"CRITICAL_ASSET_1652282809098","TOWER","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_CA","drone vs critical asset","YELLOW",398.2,1549641644000,false,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"ADH124","ADH124","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","YELLOW",252.38,1549641645000,true,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"CRITICAL_ASSET_1652282978809","RWY_35_L","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_CA","drone vs critical asset","ORANGE",717.79,1549641644000,false,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"CRITICAL_ASSET_1652283081689","FINGER_1","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_CA","drone vs critical asset","YELLOW",824.4,1549641644000,false,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"AUA516P","AUA516P","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","YELLOW",481.21,1549641645000,true,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"CRITICAL_ASSET_1652283104248","FINGER_2","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_CA","drone vs critical asset","ORANGE",471.7,1549641644000,false,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"ADH138","ADH138","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","YELLOW",325.55,1549641645000,true,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"CRITICAL_ASSET_1652283134068","FINGER_3","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_CA","drone vs critical asset","RED",111.88,1549641644000,false,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"AEA406","AEA406","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","ORANGE",89.72,1549641645000,true,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"CRITICAL_ASSET_1652340976057","FIRE_STATION","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_CA","drone vs critical asset","ORANGE",456.44,1549641644000,false,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"NOS436","NOS436","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","YELLOW",479.44,1549641646000,true,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"ADH646","ADH646","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","YELLOW",245.7,1549641645000,true,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"TAR757","TAR757","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_PLANE","drone vs plane","YELLOW",553.53,1549641646000,true,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"CRITICAL_ASSET_1652282809098","TOWER","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_CA","drone vs critical asset","YELLOW",398.2,1549641645000,true,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"CRITICAL_ASSET_1652282978809","RWY_35_L","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_CA","drone vs critical asset","ORANGE",717.79,1549641646000,true,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"CRITICAL_ASSET_1652283081689","FINGER_1","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_CA","drone vs critical asset","YELLOW",824.4,1549641645000,true,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"CRITICAL_ASSET_1652283104248","FINGER_2","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_CA","drone vs critical asset","ORANGE",471.7,1549641646000,true,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"CRITICAL_ASSET_1652283134068","FINGER_3","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_CA","drone vs critical asset","RED",111.88,1549641645000,true,false
+{"lat":"45.62366918265614","lng":"8.716867356888706"},"CRITICAL_ASSET_1652340976057","FIRE_STATION","hQHqbra4lVrpbmoaSvFD","Drone_01","DRONE_VS_CA","drone vs critical asset","ORANGE",456.44,1549641646000,true,false

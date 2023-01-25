@@ -1,0 +1,5 @@
+position,entityId,entityName,droneId,droneName,eventType,description,riskType,distance,timestamp,visible,onlyRadar
+{"lat":"45.67266334629591","lng":"8.713897034920748"},"CRITICAL_ASSET_1652283773944","DEP_RWY_35_R","hoHV7Ioh4mT68KFq3jXy","Drone_03","DRONE_VS_CA","drone vs critical asset","YELLOW",2061.81,1549641314000,false,true
+{"lat":"45.671818988295605","lng":"8.71345401970117"},"CRITICAL_ASSET_1652283209960","DEP_35_L","hoHV7Ioh4mT68KFq3jXy","Drone_03","DRONE_VS_CA","drone vs critical asset","YELLOW",2148.7,1549641334000,false,true
+{"lat":"45.666414475542496","lng":"8.710621246173165"},"CRITICAL_ASSET_1652283209960","DEP_35_L","hoHV7Ioh4mT68KFq3jXy","Drone_03","DRONE_VS_CA","drone vs critical asset","ORANGE",1575.53,1549641462000,false,true
+{"lat":"45.66452870758199","lng":"8.710800630912466"},"CRITICAL_ASSET_1652283773944","DEP_RWY_35_R","hoHV7Ioh4mT68KFq3jXy","Drone_03","DRONE_VS_CA","drone vs critical asset","ORANGE",1407.62,1549641505000,false,true

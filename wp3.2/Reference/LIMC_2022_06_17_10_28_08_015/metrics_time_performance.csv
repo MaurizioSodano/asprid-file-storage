@@ -1,0 +1,2 @@
+name,description,Flights Released for Departures,Takeoffs,Delayed Departing Flights,Delayed Departing Flights [%],Mean Delay of Departing Flights [s],Worst Delay of Departing Flights [s],Landed Flights,Delayed Arriving Flights,Delayed Arriving Flights [%],Mean Delay of Arriving Flights [s],Worst Delay of Arriving Flights [s],Time Performance Degradation
+LIMC_2022_06_17_10_28_08_015,Threat parallel to runways - Drone 04,15,8,7,46.666666666666664,292.1448571428571,546.104,0,0,0,0,0,0

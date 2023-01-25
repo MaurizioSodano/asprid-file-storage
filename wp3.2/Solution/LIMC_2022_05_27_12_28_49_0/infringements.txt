@@ -1,0 +1,27 @@
+Yellow [duration, type, drone, asset, alert]:
+98.0, DRONE_VS_PLANE, Drone_01, ADH646, no_critical_speed_alert
+62.0, DRONE_VS_CA, Drone_01, FINGER_1, no_critical_speed_alert
+89.0, DRONE_VS_CA, Drone_01, FINGER_1, no_critical_speed_alert
+68.0, DRONE_VS_CA, Drone_01, FINGER_2, no_critical_speed_alert
+69.0, DRONE_VS_CA, Drone_01, FINGER_2, no_critical_speed_alert
+78.0, DRONE_VS_CA, Drone_01, FINGER_3, no_critical_speed_alert
+61.0, DRONE_VS_CA, Drone_01, FINGER_3, no_critical_speed_alert
+139.0, DRONE_VS_CA, Drone_01, FIRE_STATION, no_critical_speed_alert
+131.0, DRONE_VS_PLANE, Drone_01, NAPOLI, no_critical_speed_alert
+138.0, DRONE_VS_PLANE, Drone_01, NOS436, no_critical_speed_alert
+92.0, DRONE_VS_CA, Drone_01, RWY_35_L, no_critical_speed_alert
+83.0, DRONE_VS_CA, Drone_01, RWY_35_L, no_critical_speed_alert
+91.0, DRONE_VS_PLANE, Drone_01, TAR757, no_critical_speed_alert
+92.0, DRONE_VS_PLANE, Drone_01, TAR757, no_critical_speed_alert
+117.0, DRONE_VS_CA, Drone_01, TOWER, no_critical_speed_alert
+Orange [duration, type, drone, asset, alert]:
+36.0, DRONE_VS_CA, Drone_01, FINGER_1, no_critical_speed_alert
+51.0, DRONE_VS_CA, Drone_01, FINGER_1, no_critical_speed_alert
+43.0, DRONE_VS_CA, Drone_01, FINGER_2, no_critical_speed_alert
+43.0, DRONE_VS_CA, Drone_01, FINGER_2, no_critical_speed_alert
+96.0, DRONE_VS_CA, Drone_01, FINGER_3, no_critical_speed_alert
+44.0, DRONE_VS_CA, Drone_01, RWY_35_L, no_critical_speed_alert
+20.0, DRONE_VS_PLANE, Drone_01, TAR757, no_critical_speed_alert
+Red [duration, type, drone, asset, alert]:
+38.0, DRONE_VS_CA, Drone_01, FINGER_1, no_critical_speed_alert
+45.0, DRONE_VS_CA, Drone_01, FINGER_2, no_critical_speed_alert

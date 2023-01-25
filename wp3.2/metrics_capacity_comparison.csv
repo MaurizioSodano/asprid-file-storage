@@ -1,0 +1,16 @@
+;Reference Scenario;;Solution Scenario;
+Threat Scenario;Flights Released for Departures;Departure Rate [per 15 min];Flights Released for Departures;Departure Rate [per 15 min]
+Threat on 35L - Drone 01;11;1.50;15;4.44
+Threat on 35L - Drone 02;9;0.76;14;4.92
+Threat on 35L - Drone 03;8;0.75;17;5.31
+Threat on 35R - Drone 01;11;1.50;13;6.90
+Threat on 35R - Drone 02;8;0.38;11;6.14
+Threat on 35R - Drone 03;8;0.38;17;5.49
+Threat on fingers - Drone 01;9;0.75;15;6.06
+Threat parallel to runways - Drone 01;9;0.75;13;4.96
+Threat parallel to runways - Drone 04;15;5.45;19;4.13
+Threat on routes - Drone 01;9;0.75;19;5.26
+Threat on routes - Drone 03;9;0.38;17;4.92
+Threat on tower - Drone 01;8;0.38;15;5.63
+Mean;9.50;1.14;15.42;5.35
+Standard Deviation;1.94;1.35;2.36;0.73

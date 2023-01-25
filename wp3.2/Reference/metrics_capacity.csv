@@ -1,0 +1,15 @@
+name,description,Flights Released for Departures,Departure Rate [per 15 min],Landed Flights,Arrival Rate [per 15 min]
+LIMC_2022_06_14_10_07_58_366,Threat on 35L - Drone 01,11.0,1.5,0.0,0.0
+LIMC_2022_06_14_15_54_34_896,Threat on 35L - Drone 02,9.0,0.7550652292461932,0.0,0.0
+LIMC_2022_06_16_09_20_40_566,Threat on 35L - Drone 03,8.0,0.75,0.0,0.0
+LIMC_2022_06_16_09_44_04_033,Threat on 35R - Drone 01,11.0,1.5,0.0,0.0
+LIMC_2022_06_16_09_57_38_685,Threat on 35R - Drone 02,8.0,0.375,0.0,0.0
+LIMC_2022_06_16_10_05_08_856,Threat on 35R - Drone 03,8.0,0.3781989326385679,0.0,0.0
+LIMC_2022_06_16_10_15_12_047,Threat on fingers - Drone 01,9.0,0.75,0.0,0.0
+LIMC_2022_06_16_10_29_23_96,Threat parallel to runways - Drone 01,9.0,0.75,0.0,0.0
+LIMC_2022_06_17_10_28_08_015,Threat parallel to runways - Drone 04,15.0,5.450003784724851,0.0,0.0
+LIMC_2022_06_17_10_55_58_966,Threat on routes - Drone 01,9.0,0.75,0.0,0.0
+LIMC_2022_06_17_11_04_24_808,Threat on routes - Drone 03,9.0,0.3765690376569038,0.0,0.0
+LIMC_2022_06_17_11_20_34_221,Threat on tower - Drone 01,8.0,0.375,0.0,0.0
+mean,,9.5,1.142486415355543,0.0,0.0
+standard_deviation,,1.9364916731037085,1.3517103645455728,0.0,0.0

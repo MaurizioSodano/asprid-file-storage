@@ -1,0 +1,8 @@
+Yellow [duration, type, drone, asset, alert]:
+121.0, DRONE_VS_CA, Drone_01, DEP_35_L, no_critical_speed_alert
+320.0, DRONE_VS_CA, Drone_01, FINGER_1, no_critical_speed_alert
+108.0, DRONE_VS_CA, Drone_01, RWY_35_L, no_critical_speed_alert
+Orange [duration, type, drone, asset, alert]:
+324.0, DRONE_VS_CA, Drone_01, DEP_35_L, no_critical_speed_alert
+342.0, DRONE_VS_CA, Drone_01, RWY_35_L, no_critical_speed_alert
+Red [duration, type, drone, asset, alert]:

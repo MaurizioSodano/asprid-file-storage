@@ -1,0 +1,16 @@
+Threat Scenario;Reference Scenario;;;;;;;Solution Scenario;;;;;;
+;Flights Released for Departures;Takeoffs;Delayed Departing Flights;Delayed Departing Flights [%];Mean Delay of Departing Flights [s];Worst Delay of Departing Flights [s];Time Performance Degradation;Flights Released for Departures;Takeoffs;Delayed Departing Flights;Delayed Departing Flights [%];Mean Delay of Departing Flights [s];Worst Delay of Departing Flights [s];Time Performance Degradation
+Threat on 35L - Drone 01;11;2;10;90.91;1328.81;2071.12;2;15;7;8;53.33;400.29;568.57;0
+Threat on 35L - Drone 02;9;2;8;88.89;1358.29;2071.12;2;14;6;8;57.14;393.38;739.22;0
+Threat on 35L - Drone 03;8;2;7;87.5;1423.03;2071.12;2;17;10;8;47.06;382.44;650.01;0
+Threat on 35R - Drone 01;11;4;9;81.82;1085.75;2071.12;1;13;6;6;46.15;225.54;472.1;0
+Threat on 35R - Drone 02;8;1;7;87.5;1720.18;2596.1;2;11;4;4;36.36;355.15;612.1;0
+Threat on 35R - Drone 03;8;1;7;87.5;1725.79;2596.1;2;17;11;11;64.71;384.96;736.4;0
+Threat on fingers - Drone 01;9;2;8;88.89;1381.82;2071.12;2;15;9;7;46.67;336.19;538.22;0
+Threat parallel to runways - Drone 01;9;2;8;88.89;1371.04;2071.12;2;13;5;6;46.15;459.2;1111.07;0
+Threat parallel to runways - Drone 04;15;8;7;46.67;292.14;546.1;0;19;11;14;73.68;391.65;948.81;0
+Threat on routes - Drone 01;9;2;8;88.89;1357.77;2071.12;2;19;12;12;63.16;648;1184.22;1
+Threat on routes - Drone 03;9;1;8;88.89;1626.39;2596.1;2;17;10;12;70.59;582.62;1161.42;0
+Threat on tower - Drone 01;8;1;7;87.5;1718.46;2596.1;2;15;8;7;46.67;331.52;602.12;0
+Mean;9.5;2.33;7.83;84.49;1365.79;2119.03;1.75;15.42;8.25;8.58;54.31;407.58;777.02;0.08
+Standard Deviation;1.94;1.89;0.9;11.59;374.57;532.33;0.6;2.36;2.52;2.87;11.03;107.83;245.82;0.28

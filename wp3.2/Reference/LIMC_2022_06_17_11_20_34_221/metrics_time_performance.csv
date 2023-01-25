@@ -1,0 +1,2 @@
+name,description,Flights Released for Departures,Takeoffs,Delayed Departing Flights,Delayed Departing Flights [%],Mean Delay of Departing Flights [s],Worst Delay of Departing Flights [s],Landed Flights,Delayed Arriving Flights,Delayed Arriving Flights [%],Mean Delay of Arriving Flights [s],Worst Delay of Arriving Flights [s],Time Performance Degradation
+LIMC_2022_06_17_11_20_34_221,Threat on tower - Drone 01,8,1,7,87.5,1718.4631428571427,2596.104,0,0,0,0,0,2

@@ -1,0 +1,16 @@
+Threat Scenario;Reference Scenario;;;;Solution Scenario;;;
+;Flights Released for Departures;Clearances for Departing Flights;Clearances for Departing Flights (Normalized);Workload Degradation;Flights Released for Departures;Clearances for Departing Flights;Clearances for Departing Flights (Normalized);Workload Degradation
+Threat on 35L - Drone 01;11;92;8.36;1;15;71;4.73;0
+Threat on 35L - Drone 02;9;39;4.33;0;14;64;4.57;0
+Threat on 35L - Drone 03;8;36;4.50;0;17;105;6.18;1
+Threat on 35R - Drone 01;11;49;4.45;0;13;56;4.31;0
+Threat on 35R - Drone 02;8;34;4.25;0;11;44;4.00;0
+Threat on 35R - Drone 03;8;34;4.25;0;17;91;5.35;1
+Threat on fingers - Drone 01;9;44;4.89;0;15;85;5.67;1
+Threat parallel to runways - Drone 01;9;38;4.22;0;13;70;5.38;1
+Threat parallel to runways - Drone 04;15;99;6.60;1;19;109;5.74;1
+Threat on routes - Drone 01;9;38;4.22;0;19;104;5.47;1
+Threat on routes - Drone 03;9;37;4.11;0;17;88;5.18;1
+Threat on tower - Drone 01;8;33;4.13;0;15;77;5.13;1
+Mean;9.50;47.75;4.86;0.17;15.42;80.33;5.14;0.67
+Standard Deviation;1.94;21.83;1.24;0.37;2.36;19.51;0.61;0.47

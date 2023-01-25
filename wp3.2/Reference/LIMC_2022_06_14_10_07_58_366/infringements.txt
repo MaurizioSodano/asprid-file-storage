@@ -1,0 +1,16 @@
+Yellow [duration, type, drone, asset, alert]:
+49.0, DRONE_VS_CA, Drone_01, DEP_35_L, critical_speed_alert
+50.0, DRONE_VS_CA, Drone_01, DEP_35_L, critical_speed_alert
+161.0, DRONE_VS_CA, Drone_01, DEP_RWY_35_R, critical_speed_alert
+117.0, DRONE_VS_PLANE, Drone_01, EZY152X, critical_speed_alert
+89.0, DRONE_VS_PLANE, Drone_01, EZY287C, critical_speed_alert
+43.0, DRONE_VS_CA, Drone_01, FINGER_1, critical_speed_alert
+43.0, DRONE_VS_CA, Drone_01, RWY_35_L, critical_speed_alert
+43.0, DRONE_VS_CA, Drone_01, RWY_35_R, critical_speed_alert
+Orange [duration, type, drone, asset, alert]:
+113.0, DRONE_VS_CA, Drone_01, DEP_35_L, critical_speed_alert
+50.0, DRONE_VS_CA, Drone_01, RWY_35_L, critical_speed_alert
+50.0, DRONE_VS_CA, Drone_01, RWY_35_R, critical_speed_alert
+Red [duration, type, drone, asset, alert]:
+1947.0, DRONE_VS_CA, Drone_01, RWY_35_L, critical_speed_alert
+1866.0, DRONE_VS_CA, Drone_01, RWY_35_R, critical_speed_alert

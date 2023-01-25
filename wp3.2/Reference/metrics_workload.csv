@@ -1,0 +1,15 @@
+name,description,Flights Released for Departures,Clearances for Departing Flights,Clearances for Departing Flights (Normalized),Landed Flights,Clearances for Arrival Flights,Clearances for Arrival Flights (Normalized),Workload Degradation
+LIMC_2022_06_14_10_07_58_366,Threat on 35L - Drone 01,11.0,92.0,8.363636363636363,0.0,0.0,0.0,1.0
+LIMC_2022_06_14_15_54_34_896,Threat on 35L - Drone 02,9.0,39.0,4.333333333333333,0.0,0.0,0.0,0.0
+LIMC_2022_06_16_09_20_40_566,Threat on 35L - Drone 03,8.0,36.0,4.5,0.0,0.0,0.0,0.0
+LIMC_2022_06_16_09_44_04_033,Threat on 35R - Drone 01,11.0,49.0,4.454545454545454,0.0,0.0,0.0,0.0
+LIMC_2022_06_16_09_57_38_685,Threat on 35R - Drone 02,8.0,34.0,4.25,0.0,0.0,0.0,0.0
+LIMC_2022_06_16_10_05_08_856,Threat on 35R - Drone 03,8.0,34.0,4.25,0.0,0.0,0.0,0.0
+LIMC_2022_06_16_10_15_12_047,Threat on fingers - Drone 01,9.0,44.0,4.888888888888889,0.0,0.0,0.0,0.0
+LIMC_2022_06_16_10_29_23_96,Threat parallel to runways - Drone 01,9.0,38.0,4.222222222222222,0.0,0.0,0.0,0.0
+LIMC_2022_06_17_10_28_08_015,Threat parallel to runways - Drone 04,15.0,99.0,6.6,0.0,0.0,0.0,1.0
+LIMC_2022_06_17_10_55_58_966,Threat on routes - Drone 01,9.0,38.0,4.222222222222222,0.0,0.0,0.0,0.0
+LIMC_2022_06_17_11_04_24_808,Threat on routes - Drone 03,9.0,37.0,4.111111111111111,0.0,0.0,0.0,0.0
+LIMC_2022_06_17_11_20_34_221,Threat on tower - Drone 01,8.0,33.0,4.125,0.0,0.0,0.0,0.0
+mean,,9.5,47.75,4.860079966329966,0.0,0.0,0.0,0.16666666666666666
+standard_deviation,,1.9364916731037085,21.82553932132415,1.2427809535313665,0.0,0.0,0.0,0.3726779962499649

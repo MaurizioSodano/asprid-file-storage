@@ -1,0 +1,16 @@
+Threat Scenario;Solution Scenario;;;;;;;;;;;;
+;Yellow Infring.;Orange Infring.;Red Infring.;Mean Time of Yellow Infring. [s];Mean Time of Orange Infring. [s];Mean Time of Red Infring. [s];Yellow Plane-Infring.;Yellow Asset-Infring.;Orange Plane-Infring.;Orange Asset-Infring.;Red Plane-Infring.;Red Asset-Infring.;Safety Degradation
+Threat on 35L - Drone 01;3;2;0;183.00;333.00;0.00;0;3;0;2;0;0;2
+Threat on 35L - Drone 02;10;2;0;284.50;263.00;0.00;4;6;0;2;0;0;2
+Threat on 35L - Drone 03;3;2;0;347.00;700.00;0.00;0;3;0;2;0;0;2
+Threat on 35R - Drone 01;2;1;0;221.00;293.00;0.00;0;2;0;1;0;0;2
+Threat on 35R - Drone 02;1;1;0;43.00;410.00;0.00;0;1;0;1;0;0;2
+Threat on 35R - Drone 03;3;2;0;139.00;615.50;0.00;1;2;0;2;0;0;2
+Threat on fingers - Drone 01;15;7;2;93.87;47.57;41.50;5;10;1;6;0;2;3
+Threat parallel to runways - Drone 01;11;0;1;161.19;0.00;188.00;1;10;0;0;0;0;2
+Threat parallel to runways - Drone 04;16;0;2;236.23;0.00;249.00;4;12;0;0;0;0;2
+Threat on routes - Drone 01;2;0;0;430.45;0.00;0.00;0;2;0;0;0;0;1
+Threat on routes - Drone 03;2;2;0;374.50;695.50;0.00;0;2;0;2;0;0;2
+Threat on tower - Drone 01;7;2;0;427.29;481.50;0.00;2;5;0;2;0;0;2
+Mean;6.25;1.75;0.42;245.09;319.92;39.88;1.42;4.83;0.08;1.67;0.00;0.17;2.00
+Standard Deviation;5.18;1.79;0.76;123.41;256.98;81.64;1.80;3.65;0.28;1.55;0.00;0.55;0.41
