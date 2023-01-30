@@ -18,6 +18,4 @@ The content of the file is in plain text, and the format is in **json**, **csv**
     here you can find the raw data logs of the simulation runs. The ones not complete have been rerun
 4. **wp3.2**
     
-    here you can find all the files related to the Work Package 3.2 activity on the safety, divided in two sub folders: **Reference** and **Solution**
-
-
+    here you can find all the files related to the **Work Package 3.2** activity on the performance evaluation (safety and resilience) by means of real-time simulations. The files refer to simulation logs and metric assessments. Two subfolders are present: **Reference** (related to the simulated reference scenarios) and **Solution** (related to the simulated solution scenarios).
